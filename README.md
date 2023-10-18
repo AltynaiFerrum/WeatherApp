@@ -25,10 +25,6 @@ Application for getting weather for every day. Written in Kotlin using the Jetpa
   the user interface that is not destroyed when the application is rotated. Easily schedule
   asynchronous tasks for optimal execution.
 
-* [Room](https://developer.android.com/jetpack/androidx/releases/room) The Room persistence library
-  provides an abstraction layer over SQLite to allow for more robust database access while
-  harnessing the full power of SQLite.
-
 * [Lifecycle](https://developer.android.com/topic/libraries/architecture/lifecycle) An interface
   that automatically responds to lifecycle events.
 
