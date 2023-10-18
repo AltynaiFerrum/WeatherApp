@@ -51,4 +51,4 @@ Application for getting weather for every day. Written in Kotlin using the Jetpa
 
 * [OkHttp](https://github.com/square/okhttp) HTTP + HTTP/2 client for Android and Java applications.
 
-* [Coil](https://coil-kt.github.io/coil) An image loading library for Android backed by Kotlin Coroutines.
+
